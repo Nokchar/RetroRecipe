@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d9ec4dfc370076d4f8e478d26e0b407b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - placePoint: {fileID: 6982058936403473189, guid: 533c487642e1e834f8c0085bb043103c, type: 3}
+  - audioSource: {instanceID: 0}
+  - highlightSound: {instanceID: 0}
+  - unhighlightSound: {instanceID: 0}
+  - placeSound: {instanceID: 0}
+  - removeSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

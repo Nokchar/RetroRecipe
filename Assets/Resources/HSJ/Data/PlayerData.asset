@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5755ba46d7cf25d418ca58faa8a90f94, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: Assembly-CSharp:HSJ:SOPlayerData
+  playerName: 
+  exp: 0
+  time: 0
+  recipes:
+  - {fileID: 11400000, guid: baf68566d93e2604baca889134d5c9e0, type: 2}
+  gifts:
+  - {fileID: 11400000, guid: 8b8500d0dcc98f34297e0265756ef714, type: 2}
+  - {fileID: 11400000, guid: 69c6c9a427bb2b247a4f8a3abde7af88, type: 2}
+  - {fileID: 11400000, guid: 22aaf486ef24542499563f2ff38700f0, type: 2}
