@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Anchor
+  - Customer
+  - Fluid
+  - Pos
+  - Menu
+  - RoomLight
+  - SamplesInfoPanel
+  - Cheese
+  - fire
+  - olive
+  - ham
+  - egg
+  - Food
+  - Tomato
+  - coffee
+  - milk
+  - Bread
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - No Baking
+  - Grabbing
+  - Grabbable
+  - Hand
+  - HandPlayer
+  - coffee
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
