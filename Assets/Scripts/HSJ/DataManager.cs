@@ -21,6 +21,7 @@ namespace HSJ
         private string GetPath(int slot)
         {
             return Path.Combine(Application.persistentDataPath, $"Data{slot}.json");
+            
         }
 
         public void Save(int slot = 0)
